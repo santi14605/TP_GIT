@@ -5,7 +5,7 @@ namespace tp2
 	public class ArbolBinario<T>
 	{
 		
-		private T dato;
+		private T dato; +2
 		private ArbolBinario<T> hijoIzquierdo;
 		private ArbolBinario<T> hijoDerecho;
 	
